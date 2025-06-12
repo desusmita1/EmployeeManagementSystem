@@ -1,0 +1,4 @@
+commands.txt
+firm-inventory-frontend/node_modules/
+firm-inventory-frontend/package-lock.json
+firm-inventory-backend/src/main/resources/application.properties
