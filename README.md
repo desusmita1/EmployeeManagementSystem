@@ -1,5 +1,4 @@
-# firm-inventory React-Java Sprinboot Project
-firm-inventory
+# Employee Management System React-Java Sprinboot Project
 
 ![Screenshot](https://github.com/desusmita1/firm-inventory/blob/main/screenshots/1.png?raw=true)
 
